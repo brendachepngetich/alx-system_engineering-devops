@@ -1,2 +1,2 @@
 #!/bin/bash
-su bettyn
+su betty\n
