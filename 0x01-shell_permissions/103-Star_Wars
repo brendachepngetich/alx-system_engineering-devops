@@ -1,0 +1,2 @@
+#!/bin/bash
+mplayer https://rakuten.tv/uk/movies/star-wars-episode-iv-a-new-hope-extras.mp4 \n
